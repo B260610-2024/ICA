@@ -1,3 +1,9 @@
 mypasswordsfile
+HEAD
 *.c
+
+*.pdf
 *.log
+**/fq.gz
+!bowtie2.log
+b972a8dae530c739ea55fa3cb4b31241b8b56e7c
